@@ -1,10 +1,3 @@
-[~] ./Note.py
-
-USE ALT+F4 TO EXIT . . .
-LISTEN 0.0.0.0:8080
-UPLOAD PATCH . . .
-Loading NOTE . . .
-
 [~][~][~][~][~][~][~][~][~][~][~][~][~][~][~][~]
 +--------------------------------------------+
 YOU PC IS NOW INFECTED BY BLUEBERRY.PY 3.11.
